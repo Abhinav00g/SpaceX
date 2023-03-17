@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:p1/class/class.dart';
-import 'package:p1/pages/description.dart';
+import 'package:space_x/class/class.dart';
+import 'package:space_x/pages/description.dart';
 
 class CardWidget extends StatelessWidget {
   const CardWidget({super.key, required this.box});

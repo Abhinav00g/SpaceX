@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:p1/class/class.dart';
-import 'package:p1/constrain.dart';
+import 'package:space_x/class/class.dart';
+import 'package:space_x/constrain.dart';
 
 class DescriptionPage extends StatefulWidget {
   const DescriptionPage({super.key, required this.box});

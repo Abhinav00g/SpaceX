@@ -1,6 +1,6 @@
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter/material.dart';
-import 'package:p1/notifier.dart';
+import 'package:space_x/notifier.dart';
 
 class Profile extends StatelessWidget {
   const Profile({super.key});
