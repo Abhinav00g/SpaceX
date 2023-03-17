@@ -1,16 +1,5 @@
-# space_x
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023 03 17_19 37 36 026](https://user-images.githubusercontent.com/97800111/225928612-f2971ce0-5e1a-4087-b2df-98fc9c961250.png)
+![Screenshot_2023 03 17_19 37 56 825](https://user-images.githubusercontent.com/97800111/225928625-4b914d51-9ea6-4bfe-8d01-3ce466e4d22f.png)
+![Screenshot_2023 03 17_19 38 13 809](https://user-images.githubusercontent.com/97800111/225928627-e26af80f-4c47-4810-a850-36d91b932e21.png)
+![Screenshot_2023 03 17_19 38 35 464](https://user-images.githubusercontent.com/97800111/225928628-f9a788e8-45fe-4bda-874b-3370ee5d3183.png)
+![Screenshot_2023 03 17_19 38 58 245](https://user-images.githubusercontent.com/97800111/225928637-39f6aca4-c5da-41a9-9809-2a9c80d770f8.png)
